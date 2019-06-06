@@ -56,10 +56,12 @@ p {
 
 #videos{
   margin-left: 10%;
+  margin-right: 50%;
 }
 
 #video{
   margin-top: 2em;
+  margin-right: 0em;
   margin-bottom: 2em;
 }
 
