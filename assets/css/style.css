@@ -28,6 +28,10 @@ p {
 }
 
 
+.WorkInProgress{
+  color: red;
+  font-size: 5em;
+}
 
 
 .parallax-container {
