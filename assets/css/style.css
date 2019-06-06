@@ -37,7 +37,8 @@ p {
   color: #000;
 }
 .register{
-  color: #000;;
+  color: #000;
+  margin-left: 200px;
 }
 .register-action{
   width: 100%;
@@ -51,6 +52,15 @@ p {
 
 #submitBtn:hover{
   color: antiquewhite;
+}
+
+#videos{
+  margin-left: 10%;
+}
+
+#video{
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .parallax-container .section {
