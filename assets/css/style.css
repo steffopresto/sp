@@ -33,6 +33,10 @@ p {
   font-size: 5em;
 }
 
+.p5Canvas{
+  margin-left: 25%;
+}
+
 
 .parallax-container {
   min-height: 380px;
